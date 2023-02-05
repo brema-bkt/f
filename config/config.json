@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xeb62ddd7887d83e7246c768b9896efda0d698449",
+  "SCAN_LINK": "https://fsnscan.com/token/0xeb62ddd7887d83e7246c768b9896efda0d698449",
+  "NETWORK": {
+    "NAME": "Fusion",
+    "SYMBOL": "FSN",
+    "ID": 32659
+  },
+  "NFT_NAME": "Test NFT",
+  "SYMBOL": "TNFT",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Market",
+  "MARKETPLACE_LINK": "https://enkai.nft",
+  "SHOW_BACKGROUND": true
+}
